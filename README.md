@@ -33,13 +33,28 @@ Me especializo en crear soluciones eficientes y actualmente estoy profundizando 
 
 <br>
 
-<h2 align="center">🧠 Habilidades</h2>
+<h2 align="center">🧠 Habilidades Blandas</h2>
 <div align="center">
   <table>
     <tr>
-      <td align="center">👥 <b>Trabajo en Equipo</b></td>
+      <td align="center">🤝 <b>Colaboración</b></td>
       <td align="center">🗣️ <b>Comunicación</b></td>
+      <td align="center">🔄 <b>Adaptabilidad</b></td>
+    </tr>
+    <tr>
+      <td align="center">Trabajo en equipo efectivo</td>
+      <td align="center">Clara y asertiva</td>
+      <td align="center">Aprendizaje continuo</td>
+    </tr>
+    <tr>
       <td align="center">🧩 <b>Resolución</b></td>
+      <td align="center">✅ <b>Compromiso</b></td>
+      <td align="center">⚡ <b>Proactividad</b></td>
+    </tr>
+    <tr>
+      <td align="center">Pensamiento crítico</td>
+      <td align="center">Alta responsabilidad</td>
+      <td align="center">Iniciativa propia</td>
     </tr>
   </table>
 </div>
