@@ -16,9 +16,6 @@
   <a href="https://www.facebook.com/share/1Syr6Wkra2/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </div>
 
 <br>
@@ -73,7 +70,7 @@ Soy un **Ingeniero en Desarrollo de Software** apasionado por crear soluciones t
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JuanJL-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
   </a>
 </div>
 
@@ -83,22 +80,22 @@ Soy un **Ingeniero en Desarrollo de Software** apasionado por crear soluciones t
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=JuanJL-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJL-dev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJL-dev&theme=radical&hide_border=true" alt="Streak" />
 </div>
 
 <br>
 
 <h2 align="center">📊 Frecuencia de Actividad</h2>
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=TU_USUARIO&bg_color=141321&color=ffffff&line=bc3c58&point=ffffff&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=JuanJL-dev&bg_color=141321&color=ffffff&line=bc3c58&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
 <br>
