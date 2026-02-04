@@ -7,6 +7,8 @@
   <b>Bienvenido a mi repositorio</b>
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://www.instagram.com/juan_luisc28?igsh=aXR2ejNyaTN6MmRk" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
