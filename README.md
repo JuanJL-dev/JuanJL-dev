@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Juan%20Luis%20Cortes&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20Software&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2E91FC&center=true&vCenter=true&width=435&lines=Hola!+Soy+Juan+Luis+Cortes;Ingeniero+en+Software;Estudiante+UTEQ;" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>¡Hola! 👋 Bienvenido a mi portafolio</h3>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <b>Bienvenido a mi repositorio</b>
 </div>
 
 <div align="center">
@@ -20,7 +21,8 @@
 ## 👨‍💻 Sobre Mí
 
 Soy **Juan Luis Cortes Matus**, Ingeniero en Desarrollo de Software por la **UTEQ**. 
-Me especializo en crear soluciones eficientes y actualmente estoy profundizando en tecnologías Full Stack.
+Mi pasión es transformar ideas complejas en **soluciones de software eficientes**. Actualmente enfoco mi carrera en la **arquitectura web** y la integración de sistemas, buscando siempre la innovación y la calidad técnica.
+Con un fuerte compromiso hacia el trabajo colaborativo y el aprendizaje continuo de nuevas tecnologías.
 
 <br>
 
