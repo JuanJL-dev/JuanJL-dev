@@ -31,7 +31,7 @@ Con un fuerte compromiso hacia el trabajo colaborativo y el aprendizaje continuo
 <h2 align="center">🚀 Tecnologías</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,nodejs,react,astro,firebase,vercel,ts&perline=7&theme=dark" />
   </a>
 </div>
 
